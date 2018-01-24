@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int n,original,remainder=0,reversed;
+int n,original,remainder,reversed=0;
 printf("enter an integer=");
 sacnf("%d",&n);
 original=n;
