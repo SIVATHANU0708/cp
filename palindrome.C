@@ -11,7 +11,7 @@ remainder=n%10;
 reversed=reversed*10+remainder;
 n=n/10;
 }
-if(original==reversed);
+if(original==reversed)
 printf("yes %d",reversed);
 else
 printf("no %d",reversed);
